@@ -1,0 +1,249 @@
+/* Responsive Mobile View Start */
+@media screen and (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    .container {
+      width: 960px;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }
+  
+  @media (max-width: 1500px) {
+    .container__wrapper {
+      top: -300px;
+    }
+  
+    .container__watermark {
+      font-size: 370px;
+    }
+  }
+  
+  @media (max-width: 1450px) {
+    .container__wrapper {
+      top: -270px;
+    }
+  
+    .container__watermark {
+      font-size: 350px;
+    }
+  }
+  
+  @media (max-width: 1400px) {
+    .container__wrapper {
+      top: -250px;
+    }
+  
+    .container__watermark {
+      font-size: 330px;
+    }
+  }
+  
+  @media (max-width: 1350px) {
+    .container__wrapper {
+      top: -240px;
+    }
+  
+    .container__watermark {
+      font-size: 320px;
+    }
+  }
+  
+  @media (max-width: 1300px) {
+    .container__wrapper {
+      top: -230px;
+    }
+  
+    .container__watermark {
+      font-size: 310px;
+    }
+  }
+  
+  @media (max-width: 1250px) {
+    .container__wrapper {
+      top: -220px;
+    }
+  
+    .container__watermark {
+      font-size: 300px;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .container__wrapper {
+      top: -210px;
+    }
+  
+    .container__watermark {
+      font-size: 290px;
+    }
+  }
+  
+  @media (max-width: 1150px) {
+    .container__wrapper {
+      top: -200px;
+    }
+  
+    .container__watermark {
+      font-size: 280px;
+    }
+  }
+  
+  @media (max-width: 1100px) {
+    .container__wrapper {
+      top: -190px;
+    }
+  
+    .container__watermark {
+      font-size: 270px;
+    }
+  }
+  
+  @media (max-width: 1050px) {
+    .container__wrapper {
+      top: -180px;
+    }
+  
+    .container__watermark {
+      font-size: 250px;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    .container__wrapper {
+      top: -190px;
+    }
+  
+    .container__watermark {
+      font-size: 247px;
+    }
+  }
+  
+  @media (max-width: 769px) {
+    .container__wrapper {
+      top: -130px;
+    }
+  
+    .container__watermark {
+      font-size: 180px;
+    }
+  }
+  
+  @media (max-width: 541px) {
+    .container__wrapper {
+      top: -80px;
+    }
+  
+    .container__watermark {
+      font-size: 121px;
+      font-weight: 600;
+    }
+  }
+  
+  @media (max-width: 415px) {
+    .container {
+      width: 400px;
+    }
+  
+    .main-body .content-holder {
+      width: 400px;
+    }
+  
+    .main-body .content-holder .title-one p {
+      font-size: 50px;
+    }
+  
+    .main-body .content-holder .title-two {
+      width: 350px;
+      margin: auto;
+    }
+  
+    .main-body .content-holder .title-two p {
+      font-size: 49px;
+    }
+  
+    .main-body .content-holder .title-two .circle1 {
+      left: 0px;
+    }
+  
+    .main-body .content-holder .title-two .circle2 {
+      left: 25px;
+    }
+  
+    .main-body .content-holder .title-two .circle3 {
+      left: 180px;
+    }
+  
+    .main-body .content-holder .title-two .circle4 {
+      left: 255px;
+      width: 81px;
+    }
+  
+    .dot3 {
+      left: 339px;
+    }
+  
+    .dot4 {
+      left: 341px;
+    }
+  
+    .main-body .content-holder .title-three {
+      margin-left: 20px;
+    }
+  
+    .container__wrapper {
+      top: -60px;
+    }
+  
+    .container__watermark {
+      font-size: 89px;
+      font-weight: 800;
+    }
+  
+    .site-footer .inner {
+      display: block;
+      text-align: center;
+    }
+  
+    .site-footer .inner .copyright p {
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 376px) {
+    .container {
+      width: 375px;
+    }
+  
+    .main-body .content-holder .title-one p {
+      font-size: 40px;
+    }
+  
+    .main-body .content-holder .title-two {
+      width: 350px;
+      margin: auto;
+    }
+  
+    .main-body .content-holder .title-two p {
+      font-size: 35px;
+    }
+  
+    .container__wrapper {
+      top: -40px;
+    }
+  
+    .container__watermark {
+      font-size: 65px;
+      font-weight: 600;
+    }
+  }
+  /* Responsive Mobile View End */
+  
